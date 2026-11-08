@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "judul": "Laskar Pelangi",
+    "genre": "Drama",
+    "tahun": 2008,
+    "rating": 8.1,
+    "sudahDitonton": true
+  },
+  {
+    "id": "2",
+    "judul": "Ada Apa dengan Cinta?",
+    "genre": "Romansa",
+    "tahun": 2002,
+    "rating": 7.7,
+    "sudahDitonton": true
+  },
+  {
+    "id": "3",
+    "judul": "Pengabdi Setan",
+    "genre": "Horor",
+    "tahun": 2017,
+    "rating": 6.6,
+    "sudahDitonton": false
+  },
+  {
+    "id": "4",
+    "judul": "Keluarga Cemara",
+    "genre": "Drama",
+    "tahun": 2019,
+    "rating": 7.8,
+    "sudahDitonton": false
+  },
+  {
+    "id": "5",
+    "judul": "Ngeri-Ngeri Sedap",
+    "genre": "Komedi",
+    "tahun": 2022,
+    "rating": 8.0,
+    "sudahDitonton": true
+  },
+  {
+    "id": "6",
+    "judul": "Dilan 1990",
+    "genre": "Romansa",
+    "tahun": 2018,
+    "rating": 7.0,
+    "sudahDitonton": false
+  }
+]
